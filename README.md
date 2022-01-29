@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Usame Furkan AYDOĞAN
 I am undergraduate student and data science enthusiast
 - 🔭 I am currently a last year electronic and communication engineering student
-- 🌱 I’m currently learning machine learning, deep learning and computer vision
+- 🌱 I’m currently learning Machine Learning, Deep Learning and Computer Vision
 - 📫 You can reach me via my e-mail usamefurkan09@gmail.com
 
 
