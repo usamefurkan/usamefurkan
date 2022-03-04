@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Üsame Furkan AYDOĞAN
+- 👋 Hi, I’m Üsame Furkan AYDOĞAN.
 I am undergraduate student and data science enthusiast
 - 🔭 I am currently a last year electronic and communication engineering student
 - 🌱 I’m currently learning Machine Learning, Deep Learning and Computer Vision
